@@ -1,6 +1,8 @@
-# 👋 Hi, I'm Youssef Tayachi
+# 👋Youssef Tayachi
+Azure Cloud Engineer — Project Portfolio
 
-Welcome to my GitHub profile! I'm passionate about building serverless cloud solutions with **Azure**, crafting intelligent automation, and delivering clean, functional code.
+This GitHub profile serves as a portfolio of practical Azure cloud projects,
+demonstrating hands-on experience across modern cloud architectures and services.
 
 ---
 
@@ -8,7 +10,7 @@ Welcome to my GitHub profile! I'm passionate about building serverless cloud sol
 
 - 📍 Based in **Vienna, Austria** — open to **remote opportunities**
 - 🎓 Studying **Business Psychology & Management**  
-- 💻 Currently working as **AI & Web Developer** at [Syro AI](https://syro-ai.com)  
+- 💻 Currently working as **AI Automation Engineer** at [Syro AI](https://syro-ai.com)  
 - 💬 Languages: German 🇩🇪, English 🇬🇧, Arabic 🇹🇳
 
 ---
@@ -30,24 +32,16 @@ Welcome to my GitHub profile! I'm passionate about building serverless cloud sol
 ### 🔹 [Azure Function + Cosmos DB](https://github.com/YoussefTayachi/azure-function-cosmosdb)
 > An **HTTP-triggered Azure Function** that stores and retrieves JSON data from **Cosmos DB (NoSQL)**.
 
-### 🔷 [**Azure ADF – CSV Copy Pipeline**](https://github.com/YoussefTayachi/azure-adf-csv-copy)
+### 🔹 [**Azure ADF – CSV Copy Pipeline**](https://github.com/YoussefTayachi/azure-adf-csv-copy)
 > A demo project using **Azure Data Factory** to copy CSV files between different storage containers. Includes a clear folder structure, pipeline JSON export, and visual monitoring via Azure UI.
-
----
-
-## 📄 Resume
-
-Want to know more about my experience?  
-📎 [Download CV – Lebenslauf & Cloud Portfolio_Youssef Tayachi.pdf](Lebenslauf%20%26%20Cloud%20Portfolio_Youssef%20Tayachi.pdf)
-
 
 ---
 
 ## 📫 Contact Me
 
-- Email: [youssef.tayachi@syro-ai.com](mailto:youssef.tayachi@syro-ai.com)  
-- GitHub Portfolio: [yousseftayachi.github.io](https://yousseftayachi.github.io)  
-- LinkedIn: https://www.linkedin.com/in/youssef-tayachi-b4b060268/
+- Email: [youssef@syro-ai.com](mailto:youssef@syro-ai.com)  
+- Mobile: +43 676 9004865
+- LinkedIn: https://www.linkedin.com/in/youssef-tayachi-b0018939b/
 
 ---
 
