@@ -17,10 +17,16 @@ demonstrating hands-on experience across modern cloud architectures and services
 
 ## 🚀 Tech Stack
 
-- **Languages**: Python, JavaScript, HTML/CSS  
-- **Cloud**: Azure Functions, Cosmos DB, Azure Monitor, Azure Data Factory, Synapse  
-- **Tools**: GitHub, VS Code, Flask  
-- **DevOps**: CI/CD, GitHub Actions, Serverless Architectures
+• Languages: Python, JavaScript, HTML/CSS
+• Cloud Platform: Microsoft Azure
+• Compute: Azure Virtual Machines, Azure Virtual Desktop (AVD)
+• Identity & Security: Microsoft Entra ID (Azure AD), RBAC, Secure Access (No Public Inbound Ports)
+• Networking: Azure Virtual Network (VNet), Subnets, Network Security Groups (NSG), IP Addressing
+• Serverless: Azure Functions (HTTP Trigger)
+• Data & Storage: Azure Cosmos DB (NoSQL), Azure Data Factory, Azure Data Lake Storage Gen2
+• Monitoring & Logging: Azure Monitor, Application Insights, Log Analytics (KQL)
+• DevOps & Tooling: GitHub, GitHub Actions (CI/CD), VS Code
+• Architecture: Cloud Fundamentals, Cost-aware Azure Architecture, Pooled VDI, Serverless Architectures
 
 ---
 
