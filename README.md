@@ -17,18 +17,18 @@ demonstrating hands-on experience across modern cloud architectures and services
 
 ## 🚀 Tech Stack
 
-• Programming Languages: Python, JavaScript, HTML/CSS
-• Cloud Platform: Microsoft Azure
-• Compute Services: Azure Virtual Machines, Azure Virtual Desktop (AVD)
-• Identity & Access Management: Microsoft Entra ID (Azure AD), Role-Based Access Control (RBAC)
-• Security: Secure Remote Access (No Public Inbound Ports)
-• Networking: Azure Virtual Network (VNet), Subnets, Network Security Groups (NSG), IP Addressing
-• Serverless: Azure Functions (HTTP Trigger)
-• Data Services: Azure Cosmos DB (NoSQL)
-• Data Integration: Azure Data Factory
-• Storage: Azure Data Lake Storage Gen2
-• Monitoring & Logging: Azure Monitor, Application Insights, Log Analytics (KQL)
-• DevOps & Tooling: GitHub, GitHub Actions (CI/CD), Visual Studio Code
+• Programming Languages: Python, JavaScript, HTML/CSS<br>
+• Cloud Platform: Microsoft Azure<br>
+• Compute Services: Azure Virtual Machines, Azure Virtual Desktop (AVD)<br>
+• Identity & Access Management: Microsoft Entra ID (Azure AD), Role-Based Access Control (RBAC)<br>
+• Security: Secure Remote Access (No Public Inbound Ports)<br>
+• Networking: Azure Virtual Network (VNet), Subnets, Network Security Groups (NSG), IP Addressing<br>
+• Serverless: Azure Functions (HTTP Trigger)<br>
+• Data Services: Azure Cosmos DB (NoSQL)<br>
+• Data Integration: Azure Data Factory<br>
+• Storage: Azure Data Lake Storage Gen2<br>
+• Monitoring & Logging: Azure Monitor, Application Insights, Log Analytics (KQL)<br>
+• DevOps & Tooling: GitHub, GitHub Actions (CI/CD), Visual Studio Code<br>
 • Architecture Concepts: Cloud Fundamentals, Cost-aware Azure Architecture, Pooled VDI, Serverless Architectures
 
 
