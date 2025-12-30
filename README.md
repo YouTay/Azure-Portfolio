@@ -35,6 +35,9 @@ demonstrating hands-on experience across modern cloud architectures and services
 ### 🔹 [**Azure ADF – CSV Copy Pipeline**](https://github.com/YoussefTayachi/azure-adf-csv-copy)
 > A demo project using **Azure Data Factory** to copy CSV files between different storage containers. Includes a clear folder structure, pipeline JSON export, and visual monitoring via Azure UI.
 
+### 🔹 [Azure Virtual Desktop (AVD) – Lab Project](https://github.com/YouTay/azure-virtual-desktop-avd-lab)
+> End-to-end **Azure Virtual Desktop** implementation including pooled host pool, Windows 11 multi-session VM, Application Group, Workspace, Microsoft Entra ID user assignment and secure access via Windows App.
+
 ---
 
 ## 📫 Contact Me
